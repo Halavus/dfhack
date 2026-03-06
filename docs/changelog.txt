@@ -59,6 +59,7 @@ Template for new versions:
 ## New Features
 
 ## Fixes
+- fixed `gui/rename` that was using index value of -1 from df.language_name_component
 
 ## Misc Improvements
 
